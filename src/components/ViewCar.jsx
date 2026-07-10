@@ -124,7 +124,7 @@ const ViewCar = () => {
                                             return(
                                                  <div className="col col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                                  <div class="card">
-  <img src={value.image} class="card-img-top" alt="..." height={300}/>
+  <img src={value.image} class="card-img-top" alt="..." height={400}/>
   <div class="card-body">
     <h5 class="card-title">{value.brand}</h5>
     <p class="card-text">{value.carId}</p>
